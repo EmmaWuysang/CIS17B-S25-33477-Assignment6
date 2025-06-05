@@ -1,4 +1,4 @@
-# CIS17B-S25-33477-Assignment6
+# CIS17B-S25-33477-Assignment6 - Emma Wuysang
 
 I created this program using the **QT Creator Community.** It should run perfectly fine, the only way to run the program is through the app/QT Creator I am pretty sure. I tried following the guy's tutorial on the lessons, but I had issues with that. 
 
