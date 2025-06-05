@@ -7,7 +7,7 @@ I created this program using the **QT Creator Community.** It should run perfect
 **To run the GUI**,
 1. **download** the folder
 2. go into **QT Creator**
-3. Open Project
+3. Press Open Project
 4. **Press** the downloaded folder
 5. Select **all** the files in the folder *(It'll look like "build, CIS17B_Lesson_6_Assignment.pro, CIS17B_Lesson_6_Assignment.pro.user, main.cpp, mainwindow.cpp, mainwindow.h, mainwindow.ui, storagemanager.cpp, storagemanager.h, storedItem.h")*
 6. after **selecting** all of that
