@@ -18,4 +18,4 @@ I created this program using the **QT Creator Community.** It should run perfect
 11. press the **green run button on the bottom**!
 *TADA!! :)*
 
-I will also upload pictures of the program running in case of any problems arising. I implemented a few rainforest photos. I also went through commenting most operations/parts. Files will be in a folder. Download & run in QT Creator! Again not sure how this'll work if used in VS Code. Email me if there any issues! ewuysang2@student.rccd.edu
+**I will also upload pictures of the program running in case of any problems arising. I implemented a few rainforest photos. I also went through commenting most operations/parts. Files will be in a folder. Download & run in QT Creator! Again not sure how this'll work if used in VS Code. Email me if there any issues!** ewuysang2@student.rccd.edu
